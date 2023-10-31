@@ -1,0 +1,45 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+#sociais-superior{
+    background-color: #e30613;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#sociais-superior ul{
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#logo-menu{
+    width: 80%;
+    height: 130px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 2%;
+}
+
+#logo-menu img{
+    width: 10%;
+}
+
+#menu a{
+    color: black;
+}
+
+#menu ul{
+ 
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
